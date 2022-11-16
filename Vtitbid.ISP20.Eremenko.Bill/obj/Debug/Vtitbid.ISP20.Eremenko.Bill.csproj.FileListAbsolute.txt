@@ -1,0 +1,8 @@
+E:\Vtitbid.ISP20.Eremenko.Bill\Vtitbid.ISP20.Eremenko.Bill\obj\Debug\Vtitbid.ISP20.Eremenko.Bill.csproj.AssemblyReference.cache
+E:\Vtitbid.ISP20.Eremenko.Bill\Vtitbid.ISP20.Eremenko.Bill\obj\Debug\Vtitbid.ISP20.Eremenko.Bill.csproj.SuggestedBindingRedirects.cache
+E:\Vtitbid.ISP20.Eremenko.Bill\Vtitbid.ISP20.Eremenko.Bill\obj\Debug\Vtitbid.ISP20.Eremenko.Bill.csproj.CoreCompileInputs.cache
+E:\Vtitbid.ISP20.Eremenko.Bill\Vtitbid.ISP20.Eremenko.Bill\bin\Debug\Vtitbid.ISP20.Eremenko.Bill.exe.config
+E:\Vtitbid.ISP20.Eremenko.Bill\Vtitbid.ISP20.Eremenko.Bill\bin\Debug\Vtitbid.ISP20.Eremenko.Bill.exe
+E:\Vtitbid.ISP20.Eremenko.Bill\Vtitbid.ISP20.Eremenko.Bill\bin\Debug\Vtitbid.ISP20.Eremenko.Bill.pdb
+E:\Vtitbid.ISP20.Eremenko.Bill\Vtitbid.ISP20.Eremenko.Bill\obj\Debug\Vtitbid.ISP20.Eremenko.Bill.exe
+E:\Vtitbid.ISP20.Eremenko.Bill\Vtitbid.ISP20.Eremenko.Bill\obj\Debug\Vtitbid.ISP20.Eremenko.Bill.pdb
